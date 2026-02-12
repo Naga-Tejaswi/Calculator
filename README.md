@@ -35,7 +35,16 @@ A professional command-line calculator supporting basic operations (addition, su
 ## Author
 Elevate Labs
 
+## Screenshots
+
+## Image-1
+
 <img width="1920" height="1005" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/2195cd8c-3e78-47f4-91ed-7555561bc59d" />
+
+## Image-2
+
+<img width="1920" height="1005" alt="Screenshot (433)" src="https://github.com/user-attachments/assets/1e57bd9d-9860-41c9-b2dc-305a55ed4065" />
+
 
 
 
