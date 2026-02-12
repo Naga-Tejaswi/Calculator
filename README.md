@@ -19,17 +19,11 @@ A professional command-line calculator supporting basic operations (addition, su
 - Modular code using functions
 
 ## Usage
-
-1. Open a terminal and navigate to the `Calculator` directory:
-   ```sh
-   cd "d:\Elevate labs\Calculator"
-   ```
-2. Run the calculator script:
-   ```sh
+1.  Run the calculator script:
    python calculator.py
-   ```
-3. Follow the on-screen prompts to perform calculations.
-4. Select 'Exit' to quit the application.
+  
+2. Follow the on-screen prompts to perform calculations.
+3. Select 'Exit' to quit the application.
 
 ## Requirements
 - Python 3.x
@@ -40,3 +34,4 @@ A professional command-line calculator supporting basic operations (addition, su
 
 ## Author
 Elevate Labs
+
